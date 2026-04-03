@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-torch
-transformers
-sentencepiece
-rapidfuzz
-pydantic
